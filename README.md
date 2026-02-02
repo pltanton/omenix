@@ -30,7 +30,7 @@ Add to your system configuration:
   inputs.omenix.url = "github:noahpro99/omenix";
 
   # In your system configuration:
-  packages.omenix.enable = true;
+  programs.omenix.enable = true;
 }
 ```
 
