@@ -26,7 +26,6 @@
       ];
 
       guiBuildInputs = with pkgs; [
-        glib
         gtk3
         libayatana-appindicator
         openssl
